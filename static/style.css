@@ -1,0 +1,44 @@
+h4 {
+	font-family: sans-serif;
+}
+
+h6 {
+	font-family: sans-serif;
+}
+
+button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 9px 18px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+.button {
+  font-size: 15px;
+  padding: 5px 14px;
+}
+
+.button1 {
+  border-radius: 12px;
+}
+
+button a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+button a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+button a:link {
+  color: white;
+  text-decoration: none;
+}
